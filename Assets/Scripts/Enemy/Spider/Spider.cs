@@ -1,0 +1,71 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Spider : Enemy, IDamageable
+{
+    public GameObject acidEffectPrefab;
+    private Animator _spiderAnim;
+    private Rigidbody2D _rigidSpider;
+    private void Start()
+    {
+        _rigidSpider = GetComponent<Rigidbody2D>();
+        speed = 150.0f;
+        _spiderAnim = GetComponentInChildren<Animator>();
+    }
+
+    public override void Update()
+    {
+        EnemyMovement();
+        Attack();
+    }
+
+    public override void EnemyMovement()
+    {
+        _rigidSpider.velocity = Vector2.left * Time.deltaTime * speed;
+
+        MoveSpiderAnim(speed);
+    }
+
+    public void MoveSpiderAnim(float move)
+    {
+        _spiderAnim.SetFloat("Move", Mathf.Abs(move));
+    }
+
+    public int Health { get; set; }
+
+    public void Damage()
+    {
+        Debug.Log("Damage");
+        Health--;
+
+        if (Health < 1)
+        {
+            _spiderAnim.SetTrigger("Death");
+            StartCoroutine(WaitForDeathAnimation(this.gameObject));
+        }
+
+    }
+
+    public override void Attack()
+    {
+        range = 7f;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.left, range, layer);
+        if (hit.collider != null)
+        {
+            _spiderAnim.SetTrigger("Attack");
+            MoveSpiderAnim(0);
+            speed = 0;
+        }
+        else
+        {
+            speed = 70.0f;
+        }
+
+    }
+
+    public void ThrowAcid()
+    {
+        Instantiate(acidEffectPrefab, transform.position, Quaternion.identity);
+    }
+}

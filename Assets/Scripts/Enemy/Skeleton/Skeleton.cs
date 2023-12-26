@@ -6,8 +6,10 @@ public class Skeleton : Enemy, IDamageable
 {
     private Animator _skeletonAnim;
     private Rigidbody2D _rigidSkeleton;
+    public GameObject gameManager;
     private void Start()
     {
+        gameManager = GameObject.Find("GameManager");
         _rigidSkeleton = GetComponent<Rigidbody2D>();
         speed = 70.0f;
         _skeletonAnim = GetComponentInChildren<Animator>();
@@ -44,6 +46,7 @@ public class Skeleton : Enemy, IDamageable
 
         if (Health < 1)
         {
+            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 25;
             _skeletonAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
         }

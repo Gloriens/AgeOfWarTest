@@ -7,8 +7,10 @@ public class Spider : Enemy, IDamageable
     public GameObject acidEffectPrefab;
     private Animator _spiderAnim;
     private Rigidbody2D _rigidSpider;
+    public GameObject gameManager;
     private void Start()
     {
+        gameManager = GameObject.Find("GameManager");
         _rigidSpider = GetComponent<Rigidbody2D>();
         speed = 150.0f;
         _spiderAnim = GetComponentInChildren<Animator>();
@@ -41,8 +43,10 @@ public class Spider : Enemy, IDamageable
 
         if (Health < 1)
         {
+            
             _spiderAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
+            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 31;
         }
 
     }

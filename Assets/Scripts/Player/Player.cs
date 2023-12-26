@@ -14,7 +14,7 @@ public class Player : MonoBehaviour, IDamageable
     {
         _rigid = GetComponent<Rigidbody2D>();
         _playerAnim = GetComponent<PlayerAnimation>();
-        Health = 10;
+        Health = 40;
     }
 
     // Update is called once per frame
@@ -51,6 +51,7 @@ public class Player : MonoBehaviour, IDamageable
         {
             _playerAnim.Death();
             Destroy(this.gameObject);
+            
         }
 
     }

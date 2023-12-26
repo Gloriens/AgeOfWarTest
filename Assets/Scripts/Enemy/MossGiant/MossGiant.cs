@@ -6,12 +6,19 @@ public class MossGiant : Enemy, IDamageable
 {
     private Animator _mossGiantAnim;
     private Rigidbody2D _rigidGiant;
+    public GameObject gameManager;
     private void Start()
     {
+        
+        gameManager = GameObject.Find("GameManager");
         _rigidGiant = GetComponent<Rigidbody2D>();
         speed = 60.0f;
         _mossGiantAnim = GetComponentInChildren<Animator>();
-       // Health = base.health;
+        if (gameManager == null)
+        {
+            Debug.LogError("GameManager GameObject not found.");
+        }
+        // Health = base.health;
     }
 
     public override void Update()
@@ -20,7 +27,7 @@ public class MossGiant : Enemy, IDamageable
         Attack();
     }
 
-     public override void EnemyMovement()
+    public override void EnemyMovement()
     {       
         _rigidGiant.velocity = Vector2.left * Time.deltaTime * speed;
 
@@ -45,6 +52,7 @@ public class MossGiant : Enemy, IDamageable
         {
             _mossGiantAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
+            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 15;
         }
 
     }

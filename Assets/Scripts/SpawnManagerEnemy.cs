@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class SpawnManagerEnemy : MonoBehaviour
 {
+    
     private bool isReadyGiant = true;
     private bool isReadySpider = true;
     private bool isReadySkeleton = true;
+    public BankPlayer bankplayer;
     public GameObject MossGiant;
     public GameObject Spider;
     public GameObject Skeleton;
     public Transform spawnPoint;
+    public 
     // Start is called before the first frame update
     void Start()
     {

@@ -43,16 +43,16 @@ public class MossGiant : Enemy, IDamageable
 
     public int Health { get; set; }
 
-    public void Damage()
+    public void Damage(int damage)
     {
         Debug.Log("Damage");
-        Health--;
+        Health -= damage;
 
         if(Health < 1)
         {
             _mossGiantAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
-            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 15;
+            GameObject.Find("GameManager").GetComponent<BankPlayer>().money = GameObject.Find("GameManager").GetComponent<BankPlayer>().money + 15;
         }
 
     }

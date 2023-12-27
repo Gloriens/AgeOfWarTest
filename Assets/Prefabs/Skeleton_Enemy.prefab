@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 1304307168093922683}
   m_Layer: 6
   m_Name: Skeleton_Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -156,11 +156,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 3
   speed: 0
-  gems: 0
   layer:
     serializedVersion: 2
     m_Bits: 128
   range: 0
+  gameManager: {fileID: 0}
 --- !u!61 &5644951289514127647
 BoxCollider2D:
   m_ObjectHideFlags: 0

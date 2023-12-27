@@ -20,7 +20,7 @@ public abstract class EnemyAttack : MonoBehaviour
         {
             if (_canDamage == true)
             {
-                hit.Damage();
+                hit.Damage(1);
                 _canDamage = false;
                 StartCoroutine(ReDamage());
             }

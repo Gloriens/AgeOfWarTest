@@ -15,7 +15,7 @@ public class MossGiantAttack : MonoBehaviour
         {
             if (_canDamage == true)
             {
-                hit.Damage();
+                hit.Damage(2);
                 _canDamage = false;
                 StartCoroutine(ReDamage());
             }

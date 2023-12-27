@@ -10,16 +10,17 @@ public class KnightAttack : MonoBehaviour
         //Debug.Log("Hit" + other.name);
 
         IDamageable hit = other.GetComponent<IDamageable>();
-
+        
         if(hit != null)
         {
             if(_canDamage == true)
             {
-                hit.Damage();
+                hit.Damage(1);
                 _canDamage = false;
                 StartCoroutine(ReDamage());
             }
         }
+    
     }
 
     IEnumerator ReDamage()

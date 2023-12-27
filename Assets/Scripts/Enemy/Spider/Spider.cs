@@ -36,24 +36,24 @@ public class Spider : Enemy, IDamageable
 
     public int Health { get; set; }
 
-    public void Damage()
+    public void Damage(int damage)
     {
         Debug.Log("Damage");
-        Health--;
+        Health = Health - damage;
 
         if (Health < 1)
         {
             
             _spiderAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
-            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 31;
+            GameObject.Find("GameManager").GetComponent<BankPlayer>().money = GameObject.Find("GameManager").GetComponent<BankPlayer>().money + 31;
         }
 
     }
 
     public override void Attack()
     {
-        range = 7f;
+        range = 5f;
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.left, range, layer);
         if (hit.collider != null)
         {

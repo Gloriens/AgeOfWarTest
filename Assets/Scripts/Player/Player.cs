@@ -14,7 +14,7 @@ public class Player : MonoBehaviour, IDamageable
     {
         _rigid = GetComponent<Rigidbody2D>();
         _playerAnim = GetComponent<PlayerAnimation>();
-        Health = 40;
+        Health = 20;
     }
 
     // Update is called once per frame
@@ -42,10 +42,10 @@ public class Player : MonoBehaviour, IDamageable
 
     public int Health { get; set; }
 
-    public void Damage()
+    public void Damage(int damage)
     {
         Debug.Log("Damage Player");
-        Health--;
+        Health -= damage;
 
         if (Health < 1)
         {

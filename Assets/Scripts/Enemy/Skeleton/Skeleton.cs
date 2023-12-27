@@ -39,14 +39,14 @@ public class Skeleton : Enemy, IDamageable
 
     public int Health { get; set; }
 
-    public void Damage()
+    public void Damage(int damage)
     {
         Debug.Log("Damage");
-        Health--;
+        Health = Health - damage;
 
         if (Health < 1)
         {
-            gameManager.GetComponent<BankPlayer>().money = gameManager.GetComponent<BankPlayer>().money + 25;
+           GameObject.Find("GameManager").GetComponent<BankPlayer>().money = GameObject.Find("GameManager").GetComponent<BankPlayer>().money + 25;
             _skeletonAnim.SetTrigger("Death");
             StartCoroutine(WaitForDeathAnimation(this.gameObject));
         }

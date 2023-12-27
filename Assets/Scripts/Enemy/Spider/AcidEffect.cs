@@ -22,7 +22,7 @@ public class AcidEffect : MonoBehaviour
             if(hit != null)
             {
                 Debug.Log("Acid hit!");
-                hit.Damage();
+                hit.Damage(1);
             }
         }
     }

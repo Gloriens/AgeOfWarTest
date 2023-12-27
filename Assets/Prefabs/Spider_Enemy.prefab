@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 3099862901702703924}
   m_Layer: 6
   m_Name: Spider_Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -169,12 +169,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 5
   speed: 0
-  gems: 0
   layer:
     serializedVersion: 2
     m_Bits: 128
   range: 0
   acidEffectPrefab: {fileID: 2093406007352289801, guid: 89c3614946104bd4391dc056a29131b9, type: 3}
+  gameManager: {fileID: 0}
 --- !u!50 &6547021064664377241
 Rigidbody2D:
   serializedVersion: 4

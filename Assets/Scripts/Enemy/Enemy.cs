@@ -6,7 +6,6 @@ public abstract class Enemy : MonoBehaviour
 {
     [SerializeField] protected int health;
     [SerializeField] protected float speed;
-    [SerializeField] protected int gems;
     [SerializeField] protected LayerMask layer;
     [SerializeField] protected float range;
 

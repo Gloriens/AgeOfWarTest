@@ -1,0 +1,3188 @@
+fileFormatVersion: 2
+guid: c68a8ce1b19d20640b0c14fb4f767118
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Royal Knight Platformer_Frame_22
+    originalName: 
+    pivot: {x: 0.37878788, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 33
+      height: 31
+    spriteID: 6978eba7c1097b348b0d34a26b127eba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Royal Knight Platformer_Frame_23
+    originalName: 
+    pivot: {x: 0.45238093, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 444
+      width: 21
+      height: 19
+    spriteID: f879dac9023e820449441abd8aa12082
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 444}
+  - name: Royal Knight Platformer_Frame_24
+    originalName: 
+    pivot: {x: 0.45238093, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 232
+      width: 21
+      height: 20
+    spriteID: 04d286d793f654842b40cd91b6f8a7df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 232}
+  - name: Royal Knight Platformer_Frame_25
+    originalName: 
+    pivot: {x: 0.43181816, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 386
+      width: 22
+      height: 20
+    spriteID: f3af5e1c175d71542a8b035e8a5e8499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 386}
+  - name: Royal Knight Platformer_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 330
+      width: 23
+      height: 20
+    spriteID: dd206bc318565084daa00010978b3ea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 330}
+  - name: Royal Knight Platformer_Frame_29
+    originalName: 
+    pivot: {x: 0.38333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 43
+      width: 30
+      height: 24
+    spriteID: 74718c385504d1b4fa552a5e9440ed66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 43}
+  - name: Royal Knight Platformer_Frame_30
+    originalName: 
+    pivot: {x: 0.76666665, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 259
+      width: 15
+      height: 21
+    spriteID: f9e2766ecd235ec4c8912d6306bf9f39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 259}
+  - name: Royal Knight Platformer_Frame_31
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 27
+      width: 14
+      height: 20
+    spriteID: 139e95dc7e2ecbe47a6e3a57f19496b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 27}
+  - name: Royal Knight Platformer_Frame_32
+    originalName: 
+    pivot: {x: 0.47297302, y: 0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 37
+      height: 22
+    spriteID: 0fd13ea7d780d9847a4af47c0fe6fa68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 4}
+  - name: Royal Knight Platformer_Frame_33
+    originalName: 
+    pivot: {x: 0.7291667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 302
+      width: 24
+      height: 20
+    spriteID: b0382a172b8377f4baafb891bd7000fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 302}
+  - name: Royal Knight Platformer_Frame_34
+    originalName: 
+    pivot: {x: 0.7173913, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 358
+      width: 23
+      height: 20
+    spriteID: 0e8e6223f0dbddf43bf232c0f04f231f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 358}
+  - name: Royal Knight Platformer_Frame_35
+    originalName: 
+    pivot: {x: 0.61764705, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 91
+      width: 17
+      height: 20
+    spriteID: b23c174eaadb95e41855bd14a18580b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 91}
+  - name: Royal Knight Platformer_Frame_39
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 471
+      width: 19
+      height: 20
+    spriteID: d7c6dbcab4f8c614ca59629e598663cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 471}
+  - name: Royal Knight Platformer_Frame_40
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 19
+      height: 20
+    spriteID: 996826db5f3deb745a5e12fd06343cf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 4}
+  - name: Royal Knight Platformer_Frame_41
+    originalName: 
+    pivot: {x: 0.44736847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 32
+      width: 19
+      height: 20
+    spriteID: 98082cd02feedee47bf0d914d66c18e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 32}
+  - name: Royal Knight Platformer_Frame_42
+    originalName: 
+    pivot: {x: 0.44736847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 60
+      width: 19
+      height: 20
+    spriteID: a74b37ab44817d7429220fea313e7393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 60}
+  - name: Royal Knight Platformer_Frame_46
+    originalName: 
+    pivot: {x: 0.43939397, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 75
+      width: 33
+      height: 20
+    spriteID: cdac29f7327560c4497f9ab466f7d67c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 75}
+  - name: Royal Knight Platformer_Frame_47
+    originalName: 
+    pivot: {x: 0.375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 28
+      height: 20
+    spriteID: edefa35469f5a944da5947f5d29ee343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: Royal Knight Platformer_Frame_48
+    originalName: 
+    pivot: {x: 0.375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 28
+      height: 20
+    spriteID: c25fe608407a31e4c9ab027e5d5b8b65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 160}
+  - name: Royal Knight Platformer_Frame_49
+    originalName: 
+    pivot: {x: 0.3269231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 26
+      height: 20
+    spriteID: 9f61abaad0ca68b4b96935c892704f22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 246}
+  - name: Royal Knight Platformer_Frame_50
+    originalName: 
+    pivot: {x: 0.44736847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 88
+      width: 19
+      height: 20
+    spriteID: 2bb4a59b8233b684bb8e3bb4ba95530f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 88}
+  - name: Royal Knight Platformer_Frame_79
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 116
+      width: 19
+      height: 20
+    spriteID: e7c0c862424edee4cbd8a29ddc2c542f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 116}
+  - name: Royal Knight Platformer_Frame_80
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 144
+      width: 19
+      height: 20
+    spriteID: a2df29e4ce34aae40b8fa23e034673dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 144}
+  - name: Royal Knight Platformer_Frame_81
+    originalName: 
+    pivot: {x: 0.44736847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 172
+      width: 19
+      height: 20
+    spriteID: b82e766fc75d05c41a6a81dc84735dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 172}
+  - name: Royal Knight Platformer_Frame_82
+    originalName: 
+    pivot: {x: 0.44736847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 200
+      width: 19
+      height: 20
+    spriteID: 9520e58058e5ca84f81ca224a4ea8bf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 200}
+  - name: Royal Knight Platformer_Frame_93
+    originalName: 
+    pivot: {x: 0.40625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 408
+      width: 16
+      height: 19
+    spriteID: 2c5e352f8dce7fb49af35b3188a7f88a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 408}
+  - name: Royal Knight Platformer_Frame_94
+    originalName: 
+    pivot: {x: 0.38235292, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 205
+      width: 17
+      height: 19
+    spriteID: 4fddfb7b0e00a7a429c6db3fea531796
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 205}
+  - name: Royal Knight Platformer_Frame_95
+    originalName: 
+    pivot: {x: 0.575, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 20
+      height: 15
+    spriteID: 233311959a92f954d80f00d4bc81f7b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 4}
+  - name: Royal Knight Platformer_Frame_96
+    originalName: 
+    pivot: {x: 0.59374994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 107
+      width: 16
+      height: 15
+    spriteID: d45b967baca8f79489aa1fc2402ff23b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 107}
+  - name: Royal Knight Platformer_Frame_97
+    originalName: 
+    pivot: {x: 0.71875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 463
+      width: 16
+      height: 18
+    spriteID: c8d41d53978b4464f8ea3d630733d882
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 463}
+  - name: Royal Knight Platformer_Frame_98
+    originalName: 
+    pivot: {x: 0.71875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 489
+      width: 16
+      height: 17
+    spriteID: cc8a24f3e8d8cd842af25447f3c0d939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 489}
+  - name: Royal Knight Platformer_Frame_99
+    originalName: 
+    pivot: {x: 0.6785714, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 80
+      width: 14
+      height: 19
+    spriteID: 4ded81f169b8b04488c1cde8cfe2c0da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 80}
+  - name: Royal Knight Platformer_Frame_101
+    originalName: 
+    pivot: {x: 0.6785714, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 288
+      width: 14
+      height: 22
+    spriteID: ff9a6d0115739ad48bfd0cbba8f13fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 288}
+  - name: Royal Knight Platformer_Frame_102
+    originalName: 
+    pivot: {x: 0.6785714, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 318
+      width: 14
+      height: 22
+    spriteID: eaa3f2e8c89b22d4d892f559872c7db2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 318}
+  - name: Royal Knight Platformer_Frame_103
+    originalName: 
+    pivot: {x: 0.6785714, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 348
+      width: 14
+      height: 22
+    spriteID: 445e172e5df53da44bcf77330d5527e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 348}
+  - name: Royal Knight Platformer_Frame_104
+    originalName: 
+    pivot: {x: 0.6785714, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 378
+      width: 14
+      height: 22
+    spriteID: cbb2568c198020444ae33aa01b59bf0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 378}
+  - name: Royal Knight Platformer_Frame_105
+    originalName: 
+    pivot: {x: 0.71875, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 352
+      width: 16
+      height: 23
+    spriteID: 966797cdbb0533446bac88092a5dba38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 352}
+  - name: Royal Knight Platformer_Frame_106
+    originalName: 
+    pivot: {x: 0.71875, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 383
+      width: 16
+      height: 23
+    spriteID: ca90dcc7710b54b4ea279d18fd0d0f2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 383}
+  - name: Royal Knight Platformer_Frame_107
+    originalName: 
+    pivot: {x: 0.71875, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 147
+      width: 16
+      height: 21
+    spriteID: 5ee65396dbe91c344b4d009bfc4446e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 147}
+  - name: Royal Knight Platformer_Frame_108
+    originalName: 
+    pivot: {x: 0.71875, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 176
+      width: 16
+      height: 21
+    spriteID: 4f9b221026c3d82458fa65ccef98e11c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 176}
+  - name: Royal Knight Platformer_Frame_0
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 368
+      width: 18
+      height: 21
+    spriteID: 343899017a3eef74693cc26a002cf32e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 368}
+  - name: Royal Knight Platformer_Frame_1
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 397
+      width: 18
+      height: 21
+    spriteID: bd7942f41814dbe41809e10d2ef17284
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 397}
+  - name: Royal Knight Platformer_Frame_2
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 426
+      width: 18
+      height: 21
+    spriteID: 95c513574f4dd904ab37bffc2139df1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 426}
+  - name: Royal Knight Platformer_Frame_3
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 414
+      width: 18
+      height: 20
+    spriteID: b0eb13086132a8d42b4f6a57f98911ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 414}
+  - name: Royal Knight Platformer_Frame_4
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 442
+      width: 18
+      height: 20
+    spriteID: 44ee6624c99b0684eabbd28146d55ae0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 442}
+  - name: Royal Knight Platformer_Frame_5
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 455
+      width: 18
+      height: 21
+    spriteID: c14b1a8c7c04ca84bb2fd58b8f522041
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 455}
+  - name: Royal Knight Platformer_Frame_6
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 484
+      width: 18
+      height: 21
+    spriteID: 5ebc4c426ddcbb7448fb40e3bd5f69eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 484}
+  - name: Royal Knight Platformer_Frame_7
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 4
+      width: 18
+      height: 21
+    spriteID: 9561d891a7e1ce1439b7180d08e01fd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 4}
+  - name: Royal Knight Platformer_Frame_8
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 470
+      width: 18
+      height: 20
+    spriteID: fbbe9b6ab9c819c43af825add7bf1f0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 470}
+  - name: Royal Knight Platformer_Frame_9
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 4
+      width: 18
+      height: 20
+    spriteID: 41445e33e3ee34c4bb2a1cbc93c17e19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 4}
+  - name: Royal Knight Platformer_Frame_10
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 32
+      width: 18
+      height: 20
+    spriteID: 9567aec0b85448a46b2e6441622604e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 32}
+  - name: Royal Knight Platformer_Frame_11
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 260
+      width: 19
+      height: 22
+    spriteID: 0581291daedbb6d4ba43bf4c0f78dd37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 260}
+  - name: Royal Knight Platformer_Frame_12
+    originalName: 
+    pivot: {x: 0.5526316, y: -0.099999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 228
+      width: 19
+      height: 20
+    spriteID: 517a4755e5639fb4082b8bdf0ab05895
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 228}
+  - name: Royal Knight Platformer_Frame_13
+    originalName: 
+    pivot: {x: 0.5526316, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 290
+      width: 19
+      height: 22
+    spriteID: aa858e1ec1a51eb499ea49d98a12a9a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 290}
+  - name: Royal Knight Platformer_Frame_14
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 320
+      width: 19
+      height: 22
+    spriteID: 4ab2f50b6007ff34a832f18c5d4031c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 320}
+  - name: Royal Knight Platformer_Frame_15
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 350
+      width: 19
+      height: 22
+    spriteID: ed41e58644871554b8296946a663f0f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 350}
+  - name: Royal Knight Platformer_Frame_16
+    originalName: 
+    pivot: {x: 0.5526316, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 414
+      width: 19
+      height: 23
+    spriteID: 97046e7dce97de940bfc46e279c23b98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 414}
+  - name: Royal Knight Platformer_Frame_17
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 60
+      width: 18
+      height: 20
+    spriteID: db03796e5c2fe95408c0dc121553231a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 60}
+  - name: Royal Knight Platformer_Frame_18
+    originalName: 
+    pivot: {x: 0.7115385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 274
+      width: 26
+      height: 20
+    spriteID: 7c1a65d94a509a447955ded9b6063b09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 274}
+  - name: Royal Knight Platformer_Frame_19
+    originalName: 
+    pivot: {x: 0.73214287, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 28
+      height: 21
+    spriteID: ebf0bac75bc71a643862ed7d0370b84c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: Royal Knight Platformer_Frame_20
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 26
+      height: 21
+    spriteID: afcd645c391f944479f635bed1a1496a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+  - name: Royal Knight Platformer_Frame_21
+    originalName: 
+    pivot: {x: 0.73999995, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 217
+      width: 25
+      height: 21
+    spriteID: 364b53fc08b1590419bcd49e117a4306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 217}
+  - name: Royal Knight Platformer_Frame_26
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 88
+      width: 18
+      height: 20
+    spriteID: 7c0d9686181b4ca46812dfd43ead6da1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 88}
+  - name: Royal Knight Platformer_Frame_27
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 116
+      width: 18
+      height: 20
+    spriteID: 647cac0a7992a244eacb4b4d8a60e9b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 116}
+  - name: Royal Knight Platformer_Frame_36
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 144
+      width: 18
+      height: 20
+    spriteID: c437772086ec8954494e294c68d26f0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 144}
+  - name: Royal Knight Platformer_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 256
+      width: 19
+      height: 20
+    spriteID: 19b27c9c51b2a914dab1703951d999f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 256}
+  - name: Royal Knight Platformer_Frame_38
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 172
+      width: 18
+      height: 20
+    spriteID: deadd9f2e27db2d4fa73d7acd035cf61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 172}
+  - name: Royal Knight Platformer_Frame_43
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 200
+      width: 18
+      height: 20
+    spriteID: 24ea31540f8c571469c5c61ed35d9e0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 200}
+  - name: Royal Knight Platformer_Frame_44
+    originalName: 
+    pivot: {x: 0.6052632, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 284
+      width: 19
+      height: 20
+    spriteID: 7d0ba1bd79e6e734fa40c8338b111b39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 284}
+  - name: Royal Knight Platformer_Frame_45
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 119
+      width: 17
+      height: 20
+    spriteID: fec6f28c569321d429d2ed2169ca5659
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 119}
+  - name: Royal Knight Platformer_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 312
+      width: 19
+      height: 20
+    spriteID: 2790947f3762d1048b2c1831a368d32a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 312}
+  - name: Royal Knight Platformer_Frame_52
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 33
+      width: 18
+      height: 21
+    spriteID: f61a18737a7e75547bd4a001f087a521
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 33}
+  - name: Royal Knight Platformer_Frame_53
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 62
+      width: 18
+      height: 21
+    spriteID: 475b226280ab84f49b4ab92b3a901d1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 62}
+  - name: Royal Knight Platformer_Frame_54
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 91
+      width: 18
+      height: 21
+    spriteID: d22c395d918774f43a622a45c14f4d4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 91}
+  - name: Royal Knight Platformer_Frame_55
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 228
+      width: 18
+      height: 20
+    spriteID: b89658f9ea57d024a89bd048dc5705be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 228}
+  - name: Royal Knight Platformer_Frame_56
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 256
+      width: 18
+      height: 20
+    spriteID: 780411d820a87a847b15ec9fe1b43082
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 256}
+  - name: Royal Knight Platformer_Frame_57
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 120
+      width: 18
+      height: 21
+    spriteID: 19086d2aa5f8c4c40a62aaf18a65b60d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 120}
+  - name: Royal Knight Platformer_Frame_58
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 149
+      width: 18
+      height: 21
+    spriteID: d7c75a07ffe5a0640b1298f393bc65c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 149}
+  - name: Royal Knight Platformer_Frame_59
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 178
+      width: 18
+      height: 21
+    spriteID: 2228350af82e19741b8b5e93f3bca84a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 178}
+  - name: Royal Knight Platformer_Frame_60
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 284
+      width: 18
+      height: 20
+    spriteID: 63922aa43f288d649ade8f9bad83e3a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 284}
+  - name: Royal Knight Platformer_Frame_61
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 312
+      width: 18
+      height: 20
+    spriteID: bec09a13b5233334c89884814f197172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 312}
+  - name: Royal Knight Platformer_Frame_62
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 340
+      width: 18
+      height: 20
+    spriteID: e0f368279501e9f4ea7a5617e5c02c4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 340}
+  - name: Royal Knight Platformer_Frame_63
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 207
+      width: 18
+      height: 21
+    spriteID: e01cabb8866f443418368606d4aeefda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 207}
+  - name: Royal Knight Platformer_Frame_64
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 236
+      width: 18
+      height: 21
+    spriteID: e5aed94d7869ca24db11fc2a66fa4216
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 236}
+  - name: Royal Knight Platformer_Frame_65
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 265
+      width: 18
+      height: 21
+    spriteID: 6d242ee1e2623bf4eb5e76a17151353f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 265}
+  - name: Royal Knight Platformer_Frame_66
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 480
+      width: 17
+      height: 21
+    spriteID: bac39dd94d55c854a8cb259f2e23baba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 480}
+  - name: Royal Knight Platformer_Frame_67
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 368
+      width: 18
+      height: 20
+    spriteID: 6d0154c9f2f0c9d4589c2e5d881d7e49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 368}
+  - name: Royal Knight Platformer_Frame_68
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 445
+      width: 17
+      height: 25
+    spriteID: 19edcc765bb1ebc45a0f9bdc105d0141
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 445}
+  - name: Royal Knight Platformer_Frame_69
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 478
+      width: 17
+      height: 25
+    spriteID: 0f41c342dfde9cc419cf3fa157fc395c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 478}
+  - name: Royal Knight Platformer_Frame_70
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 34
+      width: 17
+      height: 25
+    spriteID: 4af37b849852c2049b80e3d483c72c65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 34}
+  - name: Royal Knight Platformer_Frame_71
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 67
+      width: 17
+      height: 25
+    spriteID: f26dd33c10b26914b9178b4bd5dbf147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 67}
+  - name: Royal Knight Platformer_Frame_72
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 100
+      width: 17
+      height: 25
+    spriteID: c5d5c06317a5b3242891626be50ceb98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 100}
+  - name: Royal Knight Platformer_Frame_73
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 133
+      width: 17
+      height: 25
+    spriteID: 3b70e3b37a38d474290e3930811c5747
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 133}
+  - name: Royal Knight Platformer_Frame_74
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 166
+      width: 17
+      height: 25
+    spriteID: 25d1da06ad59bcc49ae7e3024e887d54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 166}
+  - name: Royal Knight Platformer_Frame_75
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 199
+      width: 17
+      height: 25
+    spriteID: e8e8bb122ea6df2488de65173daddd06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 199}
+  - name: Royal Knight Platformer_Frame_76
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 380
+      width: 17
+      height: 24
+    spriteID: 1a1cd60d579eb2442b8798790b1b4b6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 380}
+  - name: Royal Knight Platformer_Frame_77
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 412
+      width: 17
+      height: 24
+    spriteID: e52b2c6254ff68e48ae9b734f471c380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 412}
+  - name: Royal Knight Platformer_Frame_78
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 396
+      width: 18
+      height: 20
+    spriteID: d97a0e6b0233acb429651aec2e9b0930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 396}
+  - name: Royal Knight Platformer_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 340
+      width: 19
+      height: 20
+    spriteID: 616c9e8332988b74aa85031e4f902ae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 340}
+  - name: Royal Knight Platformer_Frame_84
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 424
+      width: 18
+      height: 20
+    spriteID: fb99d48a5d75ec34e8ec0e33938dccb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 424}
+  - name: Royal Knight Platformer_Frame_85
+    originalName: 
+    pivot: {x: 0.6764706, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 4
+      width: 17
+      height: 21
+    spriteID: 5e4a541d459f11e48862cf9ce4890af1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 4}
+  - name: Royal Knight Platformer_Frame_86
+    originalName: 
+    pivot: {x: 0.7, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 435
+      width: 15
+      height: 20
+    spriteID: c4c156a7d309c3842a8a06fb256871d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 435}
+  - name: Royal Knight Platformer_Frame_87
+    originalName: 
+    pivot: {x: 0.61764705, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 232
+      width: 17
+      height: 19
+    spriteID: a5dee7471613f544eafa240f09a3b165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 232}
+  - name: Royal Knight Platformer_Frame_88
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 33
+      width: 17
+      height: 21
+    spriteID: 695d5386104030c4e9887fe880912735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 33}
+  - name: Royal Knight Platformer_Frame_89
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 294
+      width: 18
+      height: 21
+    spriteID: 01ccc4c37c3973d49bad745be7d859a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 294}
+  - name: Royal Knight Platformer_Frame_90
+    originalName: 
+    pivot: {x: 0.55882347, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 62
+      width: 17
+      height: 21
+    spriteID: 79c197339a9f6ad4db09b9aea2fdadf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 62}
+  - name: Royal Knight Platformer_Frame_91
+    originalName: 
+    pivot: {x: 0.52777773, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 323
+      width: 18
+      height: 21
+    spriteID: 5dc6bbbaeb9718c41a631e6110093de9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 323}
+  - name: Royal Knight Platformer_Frame_92
+    originalName: 
+    pivot: {x: 0.40625, y: -0.11764705}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 55
+      width: 16
+      height: 17
+    spriteID: 37936f1e079fa464994618791d6e05b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 55}
+  - name: Royal Knight Platformer_Frame_100
+    originalName: 
+    pivot: {x: 0.5833333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 452
+      width: 18
+      height: 20
+    spriteID: 2ce789987833d0541a9b2038081bd859
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 452}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 181319926
+    name: Royal Knight Platformer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Royal Knight Platformer_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 8
+        y: 0
+        width: 33
+        height: 31
+      spriteId: 6978eba7c1097b348b0d34a26b127eba
+    - name: Royal Knight Platformer_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 11
+        y: 0
+        width: 21
+        height: 19
+      spriteId: f879dac9023e820449441abd8aa12082
+    - name: Royal Knight Platformer_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 11
+        y: 0
+        width: 21
+        height: 20
+      spriteId: 04d286d793f654842b40cd91b6f8a7df
+    - name: Royal Knight Platformer_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 11
+        y: 0
+        width: 22
+        height: 20
+      spriteId: f3af5e1c175d71542a8b035e8a5e8499
+    - name: Royal Knight Platformer_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 9
+        y: 0
+        width: 23
+        height: 20
+      spriteId: dd206bc318565084daa00010978b3ea5
+    - name: Royal Knight Platformer_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 9
+        y: 0
+        width: 30
+        height: 24
+      spriteId: 74718c385504d1b4fa552a5e9440ed66
+    - name: Royal Knight Platformer_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 9
+        y: 0
+        width: 15
+        height: 21
+      spriteId: f9e2766ecd235ec4c8912d6306bf9f39
+    - name: Royal Knight Platformer_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 10
+        y: 0
+        width: 14
+        height: 20
+      spriteId: 139e95dc7e2ecbe47a6e3a57f19496b1
+    - name: Royal Knight Platformer_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 3
+        y: -1
+        width: 37
+        height: 22
+      spriteId: 0fd13ea7d780d9847a4af47c0fe6fa68
+    - name: Royal Knight Platformer_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 3
+        y: 0
+        width: 24
+        height: 20
+      spriteId: b0382a172b8377f4baafb891bd7000fa
+    - name: Royal Knight Platformer_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 20
+      spriteId: 0e8e6223f0dbddf43bf232c0f04f231f
+    - name: Royal Knight Platformer_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 10
+        y: 0
+        width: 17
+        height: 20
+      spriteId: b23c174eaadb95e41855bd14a18580b9
+    - name: Royal Knight Platformer_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 20
+      spriteId: d7c6dbcab4f8c614ca59629e598663cc
+    - name: Royal Knight Platformer_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 996826db5f3deb745a5e12fd06343cf3
+    - name: Royal Knight Platformer_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 12
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 98082cd02feedee47bf0d914d66c18e0
+    - name: Royal Knight Platformer_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 12
+        y: 0
+        width: 19
+        height: 20
+      spriteId: a74b37ab44817d7429220fea313e7393
+    - name: Royal Knight Platformer_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 6
+        y: 0
+        width: 33
+        height: 20
+      spriteId: cdac29f7327560c4497f9ab466f7d67c
+    - name: Royal Knight Platformer_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 10
+        y: 0
+        width: 28
+        height: 20
+      spriteId: edefa35469f5a944da5947f5d29ee343
+    - name: Royal Knight Platformer_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 10
+        y: 0
+        width: 28
+        height: 20
+      spriteId: c25fe608407a31e4c9ab027e5d5b8b65
+    - name: Royal Knight Platformer_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 12
+        y: 0
+        width: 26
+        height: 20
+      spriteId: 9f61abaad0ca68b4b96935c892704f22
+    - name: Royal Knight Platformer_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 12
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 2bb4a59b8233b684bb8e3bb4ba95530f
+    - name: Royal Knight Platformer_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 20
+      spriteId: e7c0c862424edee4cbd8a29ddc2c542f
+    - name: Royal Knight Platformer_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 20
+      spriteId: a2df29e4ce34aae40b8fa23e034673dd
+    - name: Royal Knight Platformer_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 12
+        y: 0
+        width: 19
+        height: 20
+      spriteId: b82e766fc75d05c41a6a81dc84735dec
+    - name: Royal Knight Platformer_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 12
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 9520e58058e5ca84f81ca224a4ea8bf6
+    - name: Royal Knight Platformer_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 14
+        y: 0
+        width: 16
+        height: 19
+      spriteId: 2c5e352f8dce7fb49af35b3188a7f88a
+    - name: Royal Knight Platformer_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 14
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 4fddfb7b0e00a7a429c6db3fea531796
+    - name: Royal Knight Platformer_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 9
+        y: 0
+        width: 20
+        height: 15
+      spriteId: 233311959a92f954d80f00d4bc81f7b6
+    - name: Royal Knight Platformer_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 11
+        y: 0
+        width: 16
+        height: 15
+      spriteId: d45b967baca8f79489aa1fc2402ff23b
+    - name: Royal Knight Platformer_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 9
+        y: 0
+        width: 16
+        height: 18
+      spriteId: c8d41d53978b4464f8ea3d630733d882
+    - name: Royal Knight Platformer_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 9
+        y: 0
+        width: 16
+        height: 17
+      spriteId: cc8a24f3e8d8cd842af25447f3c0d939
+    - name: Royal Knight Platformer_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 11
+        y: 0
+        width: 14
+        height: 19
+      spriteId: 4ded81f169b8b04488c1cde8cfe2c0da
+    - name: Royal Knight Platformer_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 11
+        y: 6
+        width: 14
+        height: 22
+      spriteId: ff9a6d0115739ad48bfd0cbba8f13fcd
+    - name: Royal Knight Platformer_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 11
+        y: 6
+        width: 14
+        height: 22
+      spriteId: eaa3f2e8c89b22d4d892f559872c7db2
+    - name: Royal Knight Platformer_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 11
+        y: 6
+        width: 14
+        height: 22
+      spriteId: 445e172e5df53da44bcf77330d5527e1
+    - name: Royal Knight Platformer_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 11
+        y: 6
+        width: 14
+        height: 22
+      spriteId: cbb2568c198020444ae33aa01b59bf0c
+    - name: Royal Knight Platformer_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 9
+        y: 6
+        width: 16
+        height: 23
+      spriteId: 966797cdbb0533446bac88092a5dba38
+    - name: Royal Knight Platformer_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 9
+        y: 6
+        width: 16
+        height: 23
+      spriteId: ca90dcc7710b54b4ea279d18fd0d0f2d
+    - name: Royal Knight Platformer_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 9
+        y: 6
+        width: 16
+        height: 21
+      spriteId: 5ee65396dbe91c344b4d009bfc4446e7
+    - name: Royal Knight Platformer_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 9
+        y: 6
+        width: 16
+        height: 21
+      spriteId: 4f9b221026c3d82458fa65ccef98e11c
+    - name: Royal Knight Platformer_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 343899017a3eef74693cc26a002cf32e
+    - name: Royal Knight Platformer_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: bd7942f41814dbe41809e10d2ef17284
+    - name: Royal Knight Platformer_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 95c513574f4dd904ab37bffc2139df1c
+    - name: Royal Knight Platformer_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: b0eb13086132a8d42b4f6a57f98911ae
+    - name: Royal Knight Platformer_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 44ee6624c99b0684eabbd28146d55ae0
+    - name: Royal Knight Platformer_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: c14b1a8c7c04ca84bb2fd58b8f522041
+    - name: Royal Knight Platformer_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 5ebc4c426ddcbb7448fb40e3bd5f69eb
+    - name: Royal Knight Platformer_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 9561d891a7e1ce1439b7180d08e01fd2
+    - name: Royal Knight Platformer_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: fbbe9b6ab9c819c43af825add7bf1f0a
+    - name: Royal Knight Platformer_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 41445e33e3ee34c4bb2a1cbc93c17e19
+    - name: Royal Knight Platformer_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 9567aec0b85448a46b2e6441622604e1
+    - name: Royal Knight Platformer_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 22
+      spriteId: 0581291daedbb6d4ba43bf4c0f78dd37
+    - name: Royal Knight Platformer_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 2
+        width: 19
+        height: 20
+      spriteId: 517a4755e5639fb4082b8bdf0ab05895
+    - name: Royal Knight Platformer_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 1
+        width: 19
+        height: 22
+      spriteId: aa858e1ec1a51eb499ea49d98a12a9a4
+    - name: Royal Knight Platformer_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 22
+      spriteId: 4ab2f50b6007ff34a832f18c5d4031c2
+    - name: Royal Knight Platformer_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 22
+      spriteId: ed41e58644871554b8296946a663f0f2
+    - name: Royal Knight Platformer_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 23
+      spriteId: 97046e7dce97de940bfc46e279c23b98
+    - name: Royal Knight Platformer_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: db03796e5c2fe95408c0dc121553231a
+    - name: Royal Knight Platformer_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 2
+        y: 0
+        width: 26
+        height: 20
+      spriteId: 7c1a65d94a509a447955ded9b6063b09
+    - name: Royal Knight Platformer_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 28
+        height: 21
+      spriteId: ebf0bac75bc71a643862ed7d0370b84c
+    - name: Royal Knight Platformer_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 1
+        y: 0
+        width: 26
+        height: 21
+      spriteId: afcd645c391f944479f635bed1a1496a
+    - name: Royal Knight Platformer_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 2
+        y: 0
+        width: 25
+        height: 21
+      spriteId: 364b53fc08b1590419bcd49e117a4306
+    - name: Royal Knight Platformer_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 7c0d9686181b4ca46812dfd43ead6da1
+    - name: Royal Knight Platformer_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 647cac0a7992a244eacb4b4d8a60e9b2
+    - name: Royal Knight Platformer_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: c437772086ec8954494e294c68d26f0b
+    - name: Royal Knight Platformer_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 11
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 19b27c9c51b2a914dab1703951d999f2
+    - name: Royal Knight Platformer_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: deadd9f2e27db2d4fa73d7acd035cf61
+    - name: Royal Knight Platformer_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 24ea31540f8c571469c5c61ed35d9e0a
+    - name: Royal Knight Platformer_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 9
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 7d0ba1bd79e6e734fa40c8338b111b39
+    - name: Royal Knight Platformer_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 20
+      spriteId: fec6f28c569321d429d2ed2169ca5659
+    - name: Royal Knight Platformer_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 11
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 2790947f3762d1048b2c1831a368d32a
+    - name: Royal Knight Platformer_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: f61a18737a7e75547bd4a001f087a521
+    - name: Royal Knight Platformer_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 475b226280ab84f49b4ab92b3a901d1b
+    - name: Royal Knight Platformer_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: d22c395d918774f43a622a45c14f4d4b
+    - name: Royal Knight Platformer_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: b89658f9ea57d024a89bd048dc5705be
+    - name: Royal Knight Platformer_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 780411d820a87a847b15ec9fe1b43082
+    - name: Royal Knight Platformer_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 19086d2aa5f8c4c40a62aaf18a65b60d
+    - name: Royal Knight Platformer_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: d7c75a07ffe5a0640b1298f393bc65c3
+    - name: Royal Knight Platformer_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 2228350af82e19741b8b5e93f3bca84a
+    - name: Royal Knight Platformer_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 63922aa43f288d649ade8f9bad83e3a7
+    - name: Royal Knight Platformer_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: bec09a13b5233334c89884814f197172
+    - name: Royal Knight Platformer_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 20
+      spriteId: e0f368279501e9f4ea7a5617e5c02c4f
+    - name: Royal Knight Platformer_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: e01cabb8866f443418368606d4aeefda
+    - name: Royal Knight Platformer_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: e5aed94d7869ca24db11fc2a66fa4216
+    - name: Royal Knight Platformer_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 6d242ee1e2623bf4eb5e76a17151353f
+    - name: Royal Knight Platformer_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 21
+      spriteId: bac39dd94d55c854a8cb259f2e23baba
+    - name: Royal Knight Platformer_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 6d0154c9f2f0c9d4589c2e5d881d7e49
+    - name: Royal Knight Platformer_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 19edcc765bb1ebc45a0f9bdc105d0141
+    - name: Royal Knight Platformer_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 0f41c342dfde9cc419cf3fa157fc395c
+    - name: Royal Knight Platformer_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 4af37b849852c2049b80e3d483c72c65
+    - name: Royal Knight Platformer_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: f26dd33c10b26914b9178b4bd5dbf147
+    - name: Royal Knight Platformer_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: c5d5c06317a5b3242891626be50ceb98
+    - name: Royal Knight Platformer_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 3b70e3b37a38d474290e3930811c5747
+    - name: Royal Knight Platformer_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 25d1da06ad59bcc49ae7e3024e887d54
+    - name: Royal Knight Platformer_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 25
+      spriteId: e8e8bb122ea6df2488de65173daddd06
+    - name: Royal Knight Platformer_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 24
+      spriteId: 1a1cd60d579eb2442b8798790b1b4b6f
+    - name: Royal Knight Platformer_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 24
+      spriteId: e52b2c6254ff68e48ae9b734f471c380
+    - name: Royal Knight Platformer_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: d97a0e6b0233acb429651aec2e9b0930
+    - name: Royal Knight Platformer_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 11
+        y: 0
+        width: 19
+        height: 20
+      spriteId: 616c9e8332988b74aa85031e4f902ae6
+    - name: Royal Knight Platformer_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: fb99d48a5d75ec34e8ec0e33938dccb4
+    - name: Royal Knight Platformer_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 9
+        y: 0
+        width: 17
+        height: 21
+      spriteId: 5e4a541d459f11e48862cf9ce4890af1
+    - name: Royal Knight Platformer_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 10
+        y: 0
+        width: 15
+        height: 20
+      spriteId: c4c156a7d309c3842a8a06fb256871d0
+    - name: Royal Knight Platformer_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 10
+        y: 0
+        width: 17
+        height: 19
+      spriteId: a5dee7471613f544eafa240f09a3b165
+    - name: Royal Knight Platformer_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 21
+      spriteId: 695d5386104030c4e9887fe880912735
+    - name: Royal Knight Platformer_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 01ccc4c37c3973d49bad745be7d859a9
+    - name: Royal Knight Platformer_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 11
+        y: 0
+        width: 17
+        height: 21
+      spriteId: 79c197339a9f6ad4db09b9aea2fdadf0
+    - name: Royal Knight Platformer_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 11
+        y: 0
+        width: 18
+        height: 21
+      spriteId: 5dc6bbbaeb9718c41a631e6110093de9
+    - name: Royal Knight Platformer_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 14
+        y: 2
+        width: 16
+        height: 17
+      spriteId: 37936f1e079fa464994618791d6e05b9
+    - name: Royal Knight Platformer_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 10
+        y: 0
+        width: 18
+        height: 20
+      spriteId: 2ce789987833d0541a9b2038081bd859
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 41, y: 31}
